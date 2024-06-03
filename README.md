@@ -28,7 +28,7 @@
     Data querying
     Dashboard generation
     Business data reporting
-Other relevant Information
+13.Other relevant Information
     Challenges and solutions
     Lessons learned and future considerations
 
