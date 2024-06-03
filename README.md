@@ -20,15 +20,18 @@
 9. Database setup and data loading processes
     * Database connection
     * Data ingestion into database (data warehouse)
+
 10.Testing
     * Data quality Testing
     * Performance Testing
+
 11.Error handling and logging
+
 12.Data analysis and visualization
     * Data querying
     * Dashboard generation
     * Business data reporting
+
 13.Other relevant Information
     * Challenges and solutions
     * Lessons learned and future considerations
-
