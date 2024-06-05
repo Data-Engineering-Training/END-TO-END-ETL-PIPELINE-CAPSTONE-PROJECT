@@ -1,14 +1,15 @@
-# Akua's Capstone project: End-to-End Data Pipeline
-# END-TO-END-ETL-PIPELINE
+# Akua's Capstone project: End-to-End ETL Pipeline
+# COMMERCIAL CARBON EMISSIONS DATA PIPELINE
 
 ### Table of Contents
 1. Introuction
      * Brief Background
      * Business tasks
+     *  Approach
 2. Project scope and objectives
     * Project goal
     * Project scope
-    * Expected results/deliverables
+   * Expected results/deliverables
 3. Data pipeleine processes and architecture
 4. Requirements
 5. Technologies/Tecqniques used
